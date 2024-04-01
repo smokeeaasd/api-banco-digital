@@ -1,0 +1,96 @@
+{
+    "rows": null,
+    "id": 9,
+    "nome": "Lucas Gomes",
+    "cpf": "11111111111",
+    "data_nasc": "2005-10-10",
+    "senha": "40bd001563085fc35165329ea1ff5c5ecbdbbeef"
+}
+
+
+{
+    "Id": 0,
+    "Numero": 0,
+    "Tipo": "POUPANCA",
+    "Senha": "123",
+    "Saldo": 0,
+    "Id_Correntista": 9,
+    "SaldoFormatado": "R$ 0,00",
+    "TipoFormatado": "Poupan\u00e7a"
+}
+
+
+{
+    "Id": 0,
+    "Numero": 0,
+    "Tipo": "CORRENTE",
+    "Senha": "123",
+    "Saldo": 0,
+    "Id_Correntista": 9,
+    "SaldoFormatado": "R$ 0,00",
+    "TipoFormatado": "Corrente"
+}
+{
+    "rows": null,
+    "id": 10,
+    "nome": "John Doe",
+    "cpf": "22222222222",
+    "data_nasc": "2005-09-05",
+    "senha": "40bd001563085fc35165329ea1ff5c5ecbdbbeef"
+}
+
+
+{
+    "Id": 0,
+    "Numero": 0,
+    "Tipo": "POUPANCA",
+    "Senha": "123",
+    "Saldo": 0,
+    "Id_Correntista": 10,
+    "SaldoFormatado": "R$ 0,00",
+    "TipoFormatado": "Poupan\u00e7a"
+}
+
+
+{
+    "Id": 0,
+    "Numero": 0,
+    "Tipo": "CORRENTE",
+    "Senha": "123",
+    "Saldo": 0,
+    "Id_Correntista": 10,
+    "SaldoFormatado": "R$ 0,00",
+    "TipoFormatado": "Corrente"
+}
+{
+    "rows": null,
+    "id": 11,
+    "nome": "Lucas Alencar",
+    "cpf": "11111111111",
+    "data_nasc": "2005-10-10",
+    "senha": "40bd001563085fc35165329ea1ff5c5ecbdbbeef"
+}
+
+
+{
+    "Id": 0,
+    "Numero": 0,
+    "Tipo": "POUPANCA",
+    "Senha": "123",
+    "Saldo": 0,
+    "Id_Correntista": 11,
+    "SaldoFormatado": "R$ 0,00",
+    "TipoFormatado": "Poupan\u00e7a"
+}
+
+
+{
+    "Id": 0,
+    "Numero": 0,
+    "Tipo": "CORRENTE",
+    "Senha": "123",
+    "Saldo": 0,
+    "Id_Correntista": 11,
+    "SaldoFormatado": "R$ 0,00",
+    "TipoFormatado": "Corrente"
+}
